@@ -19,8 +19,8 @@
 ---
 
 ### 📫 Let's Connect!
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/)
-[![Instagram](https://img.shields.io/badge/@crystalqueensa-purple?style=for-the-badge&logo=instagram)](https://instagram.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/](https://www.youtube.com/@crystalqueensa))
+[![Instagram](https://img.shields.io/badge/@crystalqueensa-purple?style=for-the-badge&logo=instagram)]([https://instagram.com/](https://www.instagram.com/crystalqueensa/))
 [![Website](https://img.shields.io/badge/My%20Website-crystalqueensa.com-ff69b4?style=for-the-badge)](https://crystalqueensa.com)
 
 ---
