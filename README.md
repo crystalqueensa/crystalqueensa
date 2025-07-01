@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/46/b8/8e/46b88ebf82fbb5c76e79b7a353c2954c.gif" width="300" alt="Nezuko Kamado">
+  <img src="https://cdn.jsdelivr.net/gh/crystalqueensa/staticfiles@master/cq1.png" width="300" alt="Nezuko Kamado">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Crystal Queensa</h1>
