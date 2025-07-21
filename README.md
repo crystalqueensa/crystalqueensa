@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/crystalqueensa/staticfiles@master/cq1.png" alt="Nezuko Kamado">
+  <img src="https://cdn.jsdelivr.net/gh/crystalqueensa/staticfiles@master/cq1.png" alt="Crystal Queensa">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Crystal Queensa</h1>
